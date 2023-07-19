@@ -1,13 +1,13 @@
-# airdrop
+# socialairdrop
 Airdrop website with tasks required to become eligible
 
-Watch video how to set up 👉 https://youtu.be/9-0Je5cJINk
+Watch video how to set up 👉 
 
-Join my telegram 👉 https://t.me/automatecrypto
+Join my telegram 👉 
 
-Twitter 👉 https://twitter.com/techaddict0x
+Twitter 👉 
 
 Donate👇
-BTC: bc1q93lctt4vuq4wuvxxddregglxlvuwuf2ek3xwmh
-ETH/BNB and others: 0xf34278d8A5f405268C6d6B6818eee5cfba72351C
+BTC: 
+ETH/BNB and others:
 Anything helps ❤
