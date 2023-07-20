@@ -1510,9 +1510,9 @@ contract WEB3TASKDistributor is Ownable {
 
     IERC20 public token;
 
-    address public signer = 0xbf415f836Cf00b4Bce8C839eB99aD99434647351;
+    address public signer = 0x2592C497F88810CB229D4cb8Be8D5f308821f6FF;
 
-    uint256 public GENERAL = 1_000_000_000 * 1e18;
+    uint256 public GENERAL = 1_000 * 1e18;
     uint256 public constant REFFERALS = 1_000_000 * 1e18;
 
     mapping(uint256 => bool) public _usedNonce;
