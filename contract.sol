@@ -1503,7 +1503,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
 
 pragma solidity ^0.8.15;
 
-contract WEB3TASKDistributor is Ownable {
+contract FoxxChainNetwork is Ownable {
     using ECDSA for bytes32;  
 
     bool public isClaimingEnabled = true;
